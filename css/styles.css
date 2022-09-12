@@ -2,6 +2,7 @@ body {
     font-size: 1rem;
     line-height: 1.5rem;
 }
+
 header {
     font-size: 1.3rem;
     font-weight: 500;
@@ -13,7 +14,15 @@ header {
     text-align: left;
     word-spacing: 15px;
 }
-h1 {
-    font-size: 1.3rem;
+h3 {
+    font-size: 1rem;
     font-weight: 450;
+}
+
+.block-container {
+    display: block flex;
+}
+
+.inline {
+    display: inline-flex;
 }
