@@ -26,3 +26,8 @@ h3 {
 .inline {
     display: inline-flex;
 }
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
